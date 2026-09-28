@@ -17,7 +17,7 @@ A simple calculator program written in C language.
 3. Select an operation
 4. Enter two numbers
 
-##Sample output
+## Sample output
 Enter first number: 10
 Enter Second number: 20
 
