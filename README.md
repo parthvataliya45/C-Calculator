@@ -20,6 +20,7 @@ A simple calculator program written in C language.
 ## Sample Output
 
 Enter first number: 10
+
 Enter second number: 5
 
 1. Addition
